@@ -1,0 +1,5 @@
+package com.campegmini.librarymanagementsystem.controller;
+
+public class AdminController {
+
+}

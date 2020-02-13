@@ -1,0 +1,5 @@
+package com.campegmini.librarymanagementsystem.validations;
+
+public class ValidatePassword {
+
+}

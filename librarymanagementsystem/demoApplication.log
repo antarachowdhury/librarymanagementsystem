@@ -1,0 +1,26 @@
+Welcome to Library
+Select from the following options:
+1. Admin
+2. Student
+--------------------------
+Enter your choice
+--------------------------
+Student Selected
+Please Login
+Enter student email
+Enter password
+Student logged in successfully
+ Choose student operations: 
+1.Search book
+2.Borrow book
+3.Return book
+4.Show all books
+Book Name    :c++
+Author name  :rema tharejaa
+Price        :100
+Select from the following options:
+1. Admin
+2. Student
+--------------------------
+Enter your choice
+--------------------------

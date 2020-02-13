@@ -1,0 +1,5 @@
+package com.campegmini.librarymanagementsystem.dto;
+
+public class BookInfoBean {
+
+}

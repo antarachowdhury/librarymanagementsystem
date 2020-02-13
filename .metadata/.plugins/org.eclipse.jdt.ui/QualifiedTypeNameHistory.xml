@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Statement"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.dao.AdminDaoInterface"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.dao.StudentDao"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.daoimpl.AdminDao"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.dto.StudentBean"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.service.AdminInterface"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.serviceimpl.Admin"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.service.StudentService"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="org.apache.log4j.LogManager"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.serviceimpl.StudentServiceImpl"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.dto.User"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.daoimpl.StudentImpl"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.dto.BookInfoBean"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.exceptions.BookNotFoundException"/>
+<fullyQualifiedTypeName name="com.campegmini.librarymanagementsystem.exceptions.InvalidOptionException"/>
+<fullyQualifiedTypeName name="org.mindrot.jbcrypt.BCrypt"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.capgemini.librarymanagementsystem.util.PasswordEncoder"/>
+</qualifiedTypeNameHistroy>

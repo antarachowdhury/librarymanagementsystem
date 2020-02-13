@@ -1,0 +1,5 @@
+package com.campegmini.librarymanagementsystem.service;
+
+public interface StudentService {
+
+}

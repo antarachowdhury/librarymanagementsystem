@@ -1,0 +1,5 @@
+package com.campegmini.librarymanagementsystem.serviceimpl;
+
+public class StudentServiceImpl {
+
+}

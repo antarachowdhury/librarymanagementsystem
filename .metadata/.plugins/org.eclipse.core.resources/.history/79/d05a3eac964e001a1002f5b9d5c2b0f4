@@ -1,0 +1,11 @@
+package com.campegmini.librarymanagementsystem.dao;
+
+public interface StudentDao {
+	public User loginStudent(String email, String password);
+	public List<BookInfoBean> searchBook(String bookName);
+	public List<BookInfoBean> allBooks();
+	public boolean borrowBook(StudentBean bean);
+	public boolean returnBook(int id, int bookid);
+	public String getBook(int id);
+	
+}
